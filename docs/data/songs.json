@@ -1,0 +1,28 @@
+{
+  "songs": [
+    {
+      "title": "Love Story",
+      "artist": "John Lennon",
+      "duration": "3:45",
+      "filePath": "assets/music/love_story.mp3"
+    },
+    {
+      "title": "Imagine",
+      "artist": "John Lennon",
+      "duration": "3:03",
+      "filePath": "assets/music/imagine.mp3"
+    },
+    {
+      "title": "Yesterday",
+      "artist": "The Beatles",
+      "duration": "2:05",
+      "filePath": "assets/music/yesterday.mp3"
+    },
+    {
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "duration": "4:03",
+      "filePath": "assets/music/let_it_be.mp3"
+    }
+  ]
+}
