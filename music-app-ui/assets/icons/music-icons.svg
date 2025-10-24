@@ -1,0 +1,19 @@
+<!-- This file contains SVG icons used throughout the application, such as for play, pause, and volume controls. -->
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <symbol id="icon-play" viewBox="0 0 24 24">
+    <path d="M8 5v14l11-7z"/>
+  </symbol>
+  <symbol id="icon-pause" viewBox="0 0 24 24">
+    <path d="M6 19h4V5H6zm8-14v14h4V5z"/>
+  </symbol>
+  <symbol id="icon-stop" viewBox="0 0 24 24">
+    <path d="M6 6h12v12H6z"/>
+  </symbol>
+  <symbol id="icon-volume-up" viewBox="0 0 24 24">
+    <path d="M12 3v18l-6-6H3V9h3l6-6zm3 9c0 2.21-1.79 4-4 4v2c3.31 0 6-2.69 6-6h-2zm-4 0c0 1.1-.9 2-2 2v2c2.21 0 4-1.79 4-4h-2z"/>
+  </symbol>
+  <symbol id="icon-volume-off" viewBox="0 0 24 24">
+    <path d="M1 1l22 22M3 9v6h3l6 6V3L6 9H3zm12 6c0 2.21-1.79 4-4 4v2c3.31 0 6-2.69 6-6h-2zm-4 0c0 1.1-.9 2-2 2v2c2.21 0 4-1.79 4-4h-2z"/>
+  </symbol>
+</svg>
